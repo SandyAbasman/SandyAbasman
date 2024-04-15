@@ -7,7 +7,8 @@ I am Sandy. I write HTML,CSS, JavaScript and C
 
 Currently learning React JS 
 
-You can reach me on Twitter @Abasman__sandy
+You can reach me on my email abasifrekesandy@gmail.com,
+Twitter @ Abasman__sandy,
 
 Looking Forward to meeting you!
 
