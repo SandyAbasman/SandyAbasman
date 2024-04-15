@@ -3,7 +3,9 @@
 ### Hi there 👋
 Nice to meet you!
 
-I am Sandy. I write Html,css, JavaScript and currently learning react.
+I am Sandy. I write HTML,CSS, JavaScript and C
+
+Currently learning react.
 
 You can reach me on Twitter @Abasman__sandy
 
