@@ -29,8 +29,11 @@ Building plugins for Bubble
 
 
 **🛠 Skills**
+
 **Frontend Development:** React, JavaScript, HTML, CSS, TailwindCSS, Redux
+
 **UI/UX Design:** Figma, Webflow, wireframing, and prototyping
+
 **Version Control:** Git and GitHub
 
 
