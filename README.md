@@ -7,16 +7,19 @@ I’m a frontend developer and UI/UX designer passionate about creating user-fri
 💻 Over the past year, I’ve worked on various projects that showcase my skills:
 
 **VDJ ESBAM Websit**e – A portfolio site for a DJ.
+
 **Melon Webflow Project** – A modern website built entirely with Webflow.
+
 **Far Away Travel List** – A React-based app for planning trips.
+
 **Resource App** – A tool for organizing and managing digital resources.
 
 **🎨 What sets me apart?**
+
 I started my journey in design, which gives me a unique perspective when building interfaces. 
 I love collaborating with teams to turn ideas into seamless user experiences that are both functional and beautiful.
 
-🌱 Currently Exploring:
-
+**🌱 Currently Exploring:**
 TypeScript
 Next.js
 Building plugins for Bubble
