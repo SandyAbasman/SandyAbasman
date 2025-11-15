@@ -5,10 +5,10 @@ I'm Sandy Abasman, a specialist in 𝐑𝐞𝐚𝐜𝐭, 𝐓𝐲𝐩𝐞𝐒�
 
 My expertise lies in:
 
-# 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐒𝐏𝐀𝐬: Building dynamic web applications that load quickly and offer seamless interactions.
-# 𝐏𝐢𝐱𝐞𝐥-𝐏𝐞𝐫𝐟𝐞𝐜𝐭 𝐔𝐈/𝐔𝐗 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: Translating complex designs into intuitive and visually stunning interfaces.
-# 𝐑𝐨𝐛𝐮𝐬𝐭 & 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐚𝐛𝐥𝐞 𝐂𝐨𝐝𝐞: Utilizing TypeScript to enhance code quality, reduce bugs, and ensure long-term scalability.
-# 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐞𝐫: Partnering with clients to understand their business goals and deliver solutions that drive measurable results.
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐒𝐏𝐀𝐬: Building dynamic web applications that load quickly and offer seamless interactions.
+𝐏𝐢𝐱𝐞𝐥-𝐏𝐞𝐫𝐟𝐞𝐜𝐭 𝐔𝐈/𝐔𝐗 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: Translating complex designs into intuitive and visually stunning interfaces.
+𝐑𝐨𝐛𝐮𝐬𝐭 & 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐚𝐛𝐥𝐞 𝐂𝐨𝐝𝐞: Utilizing TypeScript to enhance code quality, reduce bugs, and ensure long-term scalability.
+𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐞𝐫: Partnering with clients to understand their business goals and deliver solutions that drive measurable results.
 
 Let's create web experiences that delight your users and elevate your brand. Explore my portfolio to see how I bring cutting-edge front-end development to life!
 
