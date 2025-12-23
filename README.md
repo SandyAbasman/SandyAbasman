@@ -1,26 +1,46 @@
-
-# Sandy Abasman - Software Developer  
+# Sandy Abasman – Software Developer  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=SandyAbasman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
-Hi there! 👋 I'm Sandy Abasman, a detail-driven **Software Developer** and automation specilist passionate about crafting **user-centric web applications** that elevate brand visibility.  
+Hi there 👋  
+I’m **Sandy Abasman**, a detail driven **Software Developer**, **UI/UX Designer**, and **Automation Specialist** focused on building **user centric web applications**, thoughtful user experiences, and **workflow automations** that drive real business value.
 
-I specialize in:  
-✅ Translating concepts into **impactful digital solutions**  
-✅ Utilizing modern technologies like **React**, **Next.js**,javaScript,**Figma** **TypeScript**, **TailwindCSS**, and more  
-✅ Building **scalable** and **high-performance** web applications and automations 
+I specialize in  
+✅ Turning ideas into **impactful digital products**  
+✅ Designing **intuitive UI/UX** and translating designs into clean, responsive interfaces  
+✅ Building modern applications with **React**, **Next.js**, **JavaScript**, **TypeScript**, **TailwindCSS**, and **Figma**  
+✅ Creating **scalable**, **high performance** applications  
+✅ Designing and implementing **automation workflows using n8n** to eliminate manual tasks and improve efficiency  
 
-With a commitment to **delivering exceptional work** and **exceeding expectations**, I’m excited to collaborate on projects that push the boundaries of software development.  
+I care deeply about clean code, strong UX, and systems that scale without breaking. I enjoy building products where design, performance, and automation work together seamlessly.
 
-Let’s connect and build **remarkable web experiences** together! 🚀  
+Let’s build **smart**, **efficient**, and **remarkable** web experiences 🚀  
 
 ---
 
 ## 🛠️ Core Skills & Expertise  
 
-[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,mongodb,postgres,firebase,supabase,express,nodejs,prisma,postman)](https://skillicons.dev)  
+**Frontend & UI**  
+React · Vue · Next.js · Nuxt.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Material UI · Styled Components · Vuetify · shadcn/ui  
+
+**UI/UX & Design**  
+Figma · User Research · Wireframing · Prototyping · Design Systems · Usability Testing  
+
+**Backend & Databases**  
+Node.js · Express · MongoDB · PostgreSQL · Firebase · Supabase · Prisma  
+
+**Testing & Tooling**  
+Cypress · Git · GitHub · GitLab · Bitbucket · Postman  
+
+**State & Architecture**  
+Pinia  
+
+**Automation & Workflows**  
+n8n · API Integrations · Webhooks · No code and Low code automation  
+
+[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,mongodb,postgres,firebase,supabase,express,nodejs,prisma,postman,figma)](https://skillicons.dev)  
 
 ![ShadCN](https://img.shields.io/badge/shadcn-ui-%2320232A.svg?style=for-the-badge&logoColor=white)  
 
@@ -28,9 +48,9 @@ Let’s connect and build **remarkable web experiences** together! 🚀
 
 ## 📬 Connect with Me  
 
-- **Email**: ✉️ [abasifrekesandy@gmail.com](mailto:abasifrekesandy@gmail.com)  
--
-- **Socials**:  
+- **Email** ✉️ [abasifrekesandy@gmail.com](mailto:abasifrekesandy@gmail.com)  
+
+**Socials**  
 <p align="left">
   <a href="https://www.linkedin.com/in/abasifrekesandy/" target="_blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
@@ -38,7 +58,7 @@ Let’s connect and build **remarkable web experiences** together! 🚀
   <a href="https://twitter.com/Abasman__sandy" target="_blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />  
   </a>  
-</p> 
+</p>  
 
 ---
 
@@ -48,4 +68,3 @@ Let’s connect and build **remarkable web experiences** together! 🚀
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SandyAbasman&show_icons=true&theme=tokyonight" width="49%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyAbasman&layout=compact&hide=html,css&theme=tokyonight" width="49%" />  
 </div>  
-
