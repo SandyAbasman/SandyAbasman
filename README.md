@@ -4,17 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=SandyAbasman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
+
 Hi there 👋  
-I’m **Sandy Abasman**, a detail driven **Software Developer**, **UI/UX Designer**, and **Automation Specialist** focused on building **user centric web applications**, thoughtful user experiences, and **workflow automations** that drive real business value.
+I’m **Sandy Abasman**, a detail driven **Software Developer** and **UI UX Designer** focused on building **user centric web applications**, thoughtful user experiences, and **workflow automations** that drive real business value.
 
 I specialize in  
 ✅ Turning ideas into **impactful digital products**  
-✅ Designing **intuitive UI/UX** and translating designs into clean, responsive interfaces  
+✅ Designing **intuitive UI UX** and translating designs into clean, responsive interfaces  
 ✅ Building modern applications with **React**, **Next.js**, **JavaScript**, **TypeScript**, **TailwindCSS**, and **Figma**  
-✅ Creating **scalable**, **high performance** applications  
+✅ Creating **scalable** and **high performance** frontend applications  
 ✅ Designing and implementing **automation workflows using n8n** to eliminate manual tasks and improve efficiency  
 
 I care deeply about clean code, strong UX, and systems that scale without breaking. I enjoy building products where design, performance, and automation work together seamlessly.
+
+I am currently deepening my backend skills to better understand full stack systems and build more complete products.
 
 Let’s build **smart**, **efficient**, and **remarkable** web experiences 🚀  
 
@@ -23,24 +26,30 @@ Let’s build **smart**, **efficient**, and **remarkable** web experiences 🚀
 ## 🛠️ Core Skills & Expertise  
 
 **Frontend & UI**  
-React · Vue · Next.js · Nuxt.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Material UI · Styled Components · Vuetify · shadcn/ui  
+React · Vue · Next.js · Nuxt.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Material UI · Styled Components · Vuetify · shadcn ui  
 
-**UI/UX & Design**  
+**UI UX & Design**  
 Figma · User Research · Wireframing · Prototyping · Design Systems · Usability Testing  
-
-**Backend & Databases**  
-Node.js · Express · MongoDB · PostgreSQL · Firebase · Supabase · Prisma  
-
-**Testing & Tooling**  
-Cypress · Git · GitHub · GitLab · Bitbucket · Postman  
 
 **State & Architecture**  
 Pinia  
 
+**Testing & Tooling**  
+Cypress · Git · GitHub · GitLab · Bitbucket · Postman  
+
 **Automation & Workflows**  
 n8n · API Integrations · Webhooks · No code and Low code automation  
 
-[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,mongodb,postgres,firebase,supabase,express,nodejs,prisma,postman,figma)](https://skillicons.dev)  
+**Currently Diving into Backend Technologies**  
+Node.js  
+Express  
+MongoDB  
+PostgreSQL  
+Firebase  
+Supabase  
+Prisma  
+
+[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,firebase,supabase,nodejs,express,postgres,mongodb,prisma,postman,figma)](https://skillicons.dev)  
 
 ![ShadCN](https://img.shields.io/badge/shadcn-ui-%2320232A.svg?style=for-the-badge&logoColor=white)  
 
