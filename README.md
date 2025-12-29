@@ -26,7 +26,7 @@ Let’s build **smart**, **efficient**, and **remarkable** web experiences 🚀
 ## 🛠️ Core Skills & Expertise  
 
 **Frontend & UI**  
-React · Vue · Next.js · Nuxt.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Material UI · Styled Components · Vuetify · shadcn ui  
+React · Next.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Material UI · Styled Components · shadcn ui  
 
 **UI UX & Design**  
 Figma · User Research · Wireframing · Prototyping · Design Systems · Usability Testing  
@@ -35,7 +35,7 @@ Figma · User Research · Wireframing · Prototyping · Design Systems · Usabil
 Pinia  
 
 **Testing & Tooling**  
-Cypress · Git · GitHub · GitLab · Bitbucket · Postman  
+Jest · Git · GitHub · GitLab · Bitbucket · Postman  
 
 **Automation & Workflows**  
 n8n · API Integrations · Webhooks · No code and Low code automation  
@@ -49,7 +49,7 @@ Firebase
 Supabase  
 Prisma  
 
-[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,firebase,supabase,nodejs,express,postgres,mongodb,prisma,postman,figma)](https://skillicons.dev)  
+[![Core Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,cypress,git,bitbucket,gitlab,html,css,tailwindcss,materialui,styledcomponents,firebase,supabase,postman,figma)](https://skillicons.dev)  
 
 ![ShadCN](https://img.shields.io/badge/shadcn-ui-%2320232A.svg?style=for-the-badge&logoColor=white)  
 
