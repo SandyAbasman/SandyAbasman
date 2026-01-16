@@ -4,13 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=SandyAbasman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
-I am a software developer who learns by building, breaking things, and fixing them.
+I am a software developer with a strong focus on frontend and product development.
 
-I focus on frontend and product driven development, working mainly with JavaScript and React. I care about clean UI, readable code, and systems that make sense to real users.
+I build real projects using JavaScript and React, from user interfaces and flows to reusable components and plugins. I care about clean UI, readable code, and shipping things that actually work.
 
-This GitHub is my public lab. Everything here is proof of work, progress, and curiosity.
-
-Still learning. Still building.
+This GitHub shows my work, my thinking, and my growth. Everything here is built, not imagined.
 
 
 ## 🛠️ Core Skills & Expertise  
