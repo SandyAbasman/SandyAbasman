@@ -4,24 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=SandyAbasman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
+I am a software developer who learns by building, breaking things, and fixing them.
 
-Hi there 👋  
-I’m **Sandy Abasman**, a detail driven **Software Developer** and **UI UX Designer** focused on building **user centric web applications**, thoughtful user experiences, and **workflow automations** that drive real business value.
+I focus on frontend and product driven development, working mainly with JavaScript and React. I care about clean UI, readable code, and systems that make sense to real users.
 
-I specialize in  
-✅ Turning ideas into **impactful digital products**  
-✅ Designing **intuitive UI UX** and translating designs into clean, responsive interfaces  
-✅ Building modern applications with **React**, **Next.js**, **JavaScript**, **TypeScript**, **TailwindCSS**, and **Figma**  
-✅ Creating **scalable** and **high performance** frontend applications  
-✅ Designing and implementing **automation workflows using n8n** to eliminate manual tasks and improve efficiency  
+This GitHub is my public lab. Everything here is proof of work, progress, and curiosity.
 
-I care deeply about clean code, strong UX, and systems that scale without breaking. I enjoy building products where design, performance, and automation work together seamlessly.
+Still learning. Still building.
 
-I am currently deepening my backend skills to better understand full stack systems and build more complete products.
-
-Let’s build **smart**, **efficient**, and **remarkable** web experiences 🚀  
-
----
 
 ## 🛠️ Core Skills & Expertise  
 
