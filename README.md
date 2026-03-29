@@ -30,6 +30,7 @@ n8n · API Integrations · Webhooks · No code and Low code automation
 
 **Currently Diving into Backend Technologies**  
 Node.js  
+pocketbase
 Express  
 MongoDB  
 PostgreSQL  
