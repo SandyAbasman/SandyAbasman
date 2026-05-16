@@ -10,7 +10,6 @@ I build real projects using JavaScript and React, from user interfaces and flows
 
 This GitHub shows my work, my thinking, and my growth. Everything here is built, not imagined.
 
-
 ## 🛠️ Core Skills & Expertise  
 
 **Frontend & UI**  
@@ -30,7 +29,7 @@ n8n · API Integrations · Webhooks · No code and Low code automation
 
 **Currently Diving into Backend Technologies**  
 Node.js  
-pocketbase
+pocketbase  
 Express  
 MongoDB  
 PostgreSQL  
@@ -39,7 +38,6 @@ Supabase
 Prisma  
 
 [![Core Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,cypress,git,bitbucket,gitlab,html,css,tailwindcss,materialui,styledcomponents,firebase,supabase,postman,figma)](https://skillicons.dev)  
-
 ![ShadCN](https://img.shields.io/badge/shadcn-ui-%2320232A.svg?style=for-the-badge&logoColor=white)  
 
 ---
@@ -53,8 +51,8 @@ Prisma
   <a href="https://www.linkedin.com/in/abasifrekesandy/" target="_blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
   </a>  
-  <a href="https://twitter.com/Abasman__sandy" target="_blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />  
+  <a href="https://www.threads.com/@sandy_abasman" target="_blank">  
+    <img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" height="30" />  
   </a>  
 </p>  
 
@@ -65,4 +63,4 @@ Prisma
 <div>  
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SandyAbasman&show_icons=true&theme=tokyonight" width="49%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyAbasman&layout=compact&hide=html,css&theme=tokyonight" width="49%" />  
-</div>  
+</div>
