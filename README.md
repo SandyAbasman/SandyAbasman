@@ -19,7 +19,7 @@ React · Next.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS · Ma
 Figma · User Research · Wireframing · Prototyping · Design Systems · Usability Testing  
 
 **State & Architecture**  
-Pinia  
+use state , redux,RTK
 
 **Testing & Tooling**  
 Jest · Git · GitHub · GitLab · Bitbucket · Postman  
